@@ -18,4 +18,7 @@
 
 
  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-![](https://raw.githubusercontent.com/codeDing18/codeDing18/main/assets/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codeDing18/codeDing18/output/github-contribution-grid-snake.svg" />
+</p>
+
