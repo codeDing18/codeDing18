@@ -2,7 +2,6 @@
 
 <div align="center"> 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeDing18" /> 
- <img src="https://github-profile-trophy.vercel.app/?username=codeDing18&row=2&column=3&title=Commit,PR,Stars,Followers,Issue,Repo&theme=oldie" />
 </div>
 
 
