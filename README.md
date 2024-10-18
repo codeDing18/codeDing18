@@ -1,4 +1,4 @@
-## Hi there, I'm csDing 👋
+## Hi there, I'm csding 👋
 
 <div align="center"> 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeDing18" /> 
